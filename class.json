@@ -14,5 +14,13 @@
             "endTime": "3:30",           
             "name": "Interface Programing"
          
-        }        
+        }     
+        {
+            "classId": 57,
+            "day": "Monday",
+            "startTime": "23:30", 
+            "endTime": "3:30",           
+            "name": "Interface Programing"
+         
+        }     
     ]
