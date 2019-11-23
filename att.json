@@ -1,0 +1,19 @@
+[
+        {
+            "id": 2,
+            "firstname": "Lachlan",
+            "lastname": "Velden",
+            "studentId": "101010101",
+            "status": "SignedIn"
+         
+        },
+        {
+            "id": 3,
+            "firstname": "Josh",
+            "lastname": "Flare",
+            "studentId": "101010101",
+            "status": "SignedIn"
+            
+        },       
+       
+    ]
