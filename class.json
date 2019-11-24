@@ -4,7 +4,8 @@
             "day": "Tuesday",
             "startTime": "8:30", 
             "endTime": "13:30",     
-            "name": "OO Programing"
+            "name": "OO Programing",
+            "label": "group1"
           
         },
         {
@@ -12,7 +13,8 @@
             "day": "Monday",
             "startTime": "23:30", 
             "endTime": "3:30",           
-            "name": "Interface Programing"
+            "name": "Interface Programing",
+            "label": "group2"
          
         } 
         
