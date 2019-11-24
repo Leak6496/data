@@ -7,7 +7,7 @@
             "studentId": "101010101",
             "status": "SignedIn",
             "timeSignedIn": "12:21",
-            "dateSignedIn": "18/11/2019",
+            "dateSignedIn": "18/11/2019"
         },
         {
             "id": 3,
@@ -17,7 +17,17 @@
             "studentId": "101010101",
             "status": "SignedIn",
             "timeSignedIn": "12:22",
-            "dateSignedIn": "18/11/2019",
+            "dateSignedIn": "18/11/2019"
+        },
+       {
+            "id": 4,
+            "classId: 57,
+            "firstname": "Heng",
+            "lastname": "Voleak",
+            "studentId": "101014961",
+            "status": "SignedIn",
+            "timeSignedIn": "12:22",
+            "dateSignedIn": "18/11/2019"
         }
         
     ]
