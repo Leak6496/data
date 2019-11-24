@@ -4,7 +4,9 @@
             "firstname": "Lachlan",
             "lastname": "Velden",
             "studentId": "101010101",
-            "status": "SignedIn"
+            "status": "SignedIn",
+            "timeSignedIn":"12:21",
+            "dateSignedIn":"18/11/2019"
          
         },
         {
@@ -12,7 +14,9 @@
             "firstname": "Josh",
             "lastname": "Flare",
             "studentId": "101010101",
-            "status": "SignedIn"
+            "status": "SignedIn",
+            "timeSignedIn":"12:21",
+            "dateSignedIn":"18/11/2019"  
             
         }  
        
